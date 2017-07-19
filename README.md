@@ -1,2 +1,2 @@
 # MIUI_V6
-MIUI V6 Dialog
+MIUI V6 Dialo
